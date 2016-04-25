@@ -6,7 +6,7 @@
 
  C’est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
  
- ##Le TDD se divise en 6 étapes distinctes :
+ <h2>Le TDD se divise en 6 étapes distinctes:</h2>
 
 			 - écrire un test
 		         - vérifier qu’il échoue (car le code que l’on teste n’existe pas)
@@ -21,28 +21,28 @@ Ce mode de fonctionnement sert a tout développeur connaissant déjà la finalit
 
 ##A quoi sert-il ?
 
-Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode enbinôme:
--premier test écris pas le premier programmeur
--premier code écris par le deuxieme programmeur
--premier “reusinage” du code écris par le premier programmeur
--deuxieme test écris par le deuxieme programmeur
--deuxieme code écris par le premier programmeur
--deuxieme “reusinage” du code écris par le deuxieme programmeur
--..etc
+Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode enbinôme:</br>
+-premier test écris pas le premier programmeur</br>
+-premier code écris par le deuxieme programmeur</br>
+-premier “reusinage” du code écris par le premier programmeur</br>
+-deuxieme test écris par le deuxieme programmeur</br>
+-deuxieme code écris par le premier programmeur</br>
+-deuxieme “reusinage” du code écris par le deuxieme programmeur</br>
+-..etc</br>
 
 ##Code propre:
 	
-Le code propre c’est du code :
-qui passe ses tests
-qui est minimal
-qui est explicite
-Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire. 
+Le code propre c’est du code :</br>
+qui passe ses tests</br>
+qui est minimal</br>
+qui est explicite</br>
+Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire. </br>
 
 Dans un code propre on trouve généralement:
--pas de commentaire
--max 20 lignes par methodes
--des noms de variables explicites
--pas de variable globale
+-pas de commentaire</br>
+-max 20 lignes par methodes</br>
+-des noms de variables explicites</br>
+-pas de variable globale</br>
 
 ##Lien avec git:
 
