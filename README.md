@@ -5,6 +5,15 @@ Test Driving Developpement (développement piloté par les tests)
 Definition:
 
  C’est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
+ 
+ Le TDD se divise en 6 étapes distinctes :
+
+			 - écrire un test
+		         - vérifier qu’il échoue (car le code que l’on teste n’existe pas)
+			 - écrire juste le code suffisant pour passer le test
+			 - vérifier que le test passe
+			 - Checker le source pour que les autres développeurs puissent l’utiliser
+			 - Refactoriser le code
 
 A qui sert-il ?
 
