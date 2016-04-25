@@ -43,10 +43,10 @@ Pour réussir à créer du code propre, il faut tout simplement essayer de le pr
 
 Dans un code propre on trouve généralement:
 
--pas de commentaire
--max 20 lignes par methodes
--des noms de variables explicites
--pas de variable globale
+- pas de commentaire
+- max 20 lignes par methodes
+- des noms de variables explicites
+- pas de variable globale
 
 ##Lien avec git:
 
