@@ -21,7 +21,7 @@ Ce mode de fonctionnement sert a tout développeur connaissant déjà la finalit
 
 ##A quoi sert-il ?
 
-Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode enbinôme:</br>
+Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode en binôme:</br>
 -premier test écris pas le premier programmeur</br>
 -premier code écris par le deuxieme programmeur</br>
 -premier “reusinage” du code écris par le premier programmeur</br>
@@ -32,11 +32,11 @@ Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthod
 
 ##Code propre:
 	
-Le code propre c’est du code :</br>
-qui passe ses tests</br>
-qui est minimal</br>
-qui est explicite</br>
-Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire. </br>
+<p>Le code propre c’est du code :</br>
+-qui passe ses tests</br>
+-qui est minimal</br>
+-qui est explicite</br>
+Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire.</p>
 
 Dans un code propre on trouve généralement:
 -pas de commentaire</br>
