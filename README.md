@@ -38,6 +38,12 @@ qui est minimal
 qui est explicite
 Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire. 
 
+Dans un code propre on trouve généralement:
+-pas de commentaire
+-max 20 lignes par methodes
+-des noms de variables explicites
+-pas de variable globale
+
 ##Lien avec git:
 
 Grâce à git, il est beaucoup plus facile de pouvoir envoyer son code et ainsi  travailler en équipe. 
