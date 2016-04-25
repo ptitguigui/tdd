@@ -6,19 +6,20 @@
 
  C’est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
  
- <h2>Le TDD se divise en 6 étapes distinctes:</h2>
+ <p>Le TDD se divise en 6 étapes distinctes:
+ 
 - écrire un test
 - vérifier qu’il échoue (car le code que l’on teste n’existe pas)
 - écrire juste le code suffisant pour passer le test
 - vérifier que le test passe
 - Checker le source pour que les autres développeurs puissent l’utiliser
-- Refactoriser le code
+- Refactoriser le code</p>
 
-<h2>A qui sert-il ?</h2>
+##A qui sert-il ?
 
 Ce mode de fonctionnement sert a tout développeur connaissant déjà la finalité de son projet. De plus le fait d’avoir des tests augmentent la confiance en sois du programmeur. Par exemple, le célèbre groupe AMAZON utilise se mode de fonctionnement.
 
-<h2>A quoi sert-il ?</h2>
+##A quoi sert-il ?
 
 Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode en binôme:</br>
 - premier test écris pas le premier programmeur</br>
@@ -32,6 +33,7 @@ Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthod
 ##Code propre:
 	
 <p>Le code propre c’est du code :
+
 - qui passe ses tests</br>
 - qui est minimal</br>
 - qui est explicite</br>
@@ -39,6 +41,7 @@ Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthod
 Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire.</p>
 
 Dans un code propre on trouve généralement:
+
 -pas de commentaire</br>
 -max 20 lignes par methodes</br>
 -des noms de variables explicites</br>
