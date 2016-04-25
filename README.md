@@ -33,13 +33,13 @@ Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthod
 
 ##Code propre:
 	
-<p>Le code propre c’est du code :
+Le code propre c’est du code :
 
 - qui passe ses tests
 - qui est minimal
 - qui est explicite
 
-Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire.</p>
+Pour réussir à créer du code propre, il faut tout simplement essayer de le pratiquer le plus possible. En passant du temps a lire du code, on peu comprendre comment fonctionne le code “propre”. En rendant un code facile a lire, on le rend plus facile à écrire.
 
 Dans un code propre on trouve généralement:
 
