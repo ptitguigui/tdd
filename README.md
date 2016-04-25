@@ -14,11 +14,11 @@
 - Checker le source pour que les autres développeurs puissent l’utiliser
 - Refactoriser le code
 
-##A qui sert-il ?
+<h2>A qui sert-il ?</h2>
 
 Ce mode de fonctionnement sert a tout développeur connaissant déjà la finalité de son projet. De plus le fait d’avoir des tests augmentent la confiance en sois du programmeur. Par exemple, le célèbre groupe AMAZON utilise se mode de fonctionnement.
 
-##A quoi sert-il ?
+<h2>A quoi sert-il ?</h2>
 
 Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthode en binôme:</br>
 - premier test écris pas le premier programmeur</br>
