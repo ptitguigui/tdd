@@ -7,13 +7,12 @@
  C’est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
  
  <h2>Le TDD se divise en 6 étapes distinctes:</h2>
-
-			 - écrire un test
-		         - vérifier qu’il échoue (car le code que l’on teste n’existe pas)
-			 - écrire juste le code suffisant pour passer le test
-			 - vérifier que le test passe
-			 - Checker le source pour que les autres développeurs puissent l’utiliser
-			 - Refactoriser le code
+- écrire un test
+- vérifier qu’il échoue (car le code que l’on teste n’existe pas)
+- écrire juste le code suffisant pour passer le test
+- vérifier que le test passe
+- Checker le source pour que les autres développeurs puissent l’utiliser
+- Refactoriser le code
 
 ##A qui sert-il ?
 
@@ -32,7 +31,7 @@ Le TDD est souvent associé à la méthode XP, qui est rapprochée de la méthod
 
 ##Code propre:
 	
-<p>Le code propre c’est du code :</br>
+<p>Le code propre c’est du code :
 - qui passe ses tests</br>
 - qui est minimal</br>
 - qui est explicite</br>
